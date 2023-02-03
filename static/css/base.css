@@ -1,0 +1,5 @@
+{% load static %}
+.main1{
+    color: red;
+    /*background-image:  url("/static/css/images/1.png");*/
+}
